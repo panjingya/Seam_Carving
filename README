@@ -1,18 +1,9 @@
-
+﻿
 Prerequisites:
-
 cmake, opencv
 
 
-To compile in the lab
-——————————
-
-run ./lab_config.sh
-cd build
-make
-
-To compile on your own machine
-———
+To compile 
 
 cd build/
 cmake ../
